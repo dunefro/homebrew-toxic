@@ -1,0 +1,2 @@
+# homebrew-toxic
+Homebrew binary
